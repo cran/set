@@ -42,7 +42,7 @@ combination <- function(...){
                 venn.n.i=length(stay.both)
                 venn.n=c(venn.n,venn.n.i)
             }else if (i==nrow(comb.df)){
-                stay.both= COMMON(...)
+                stay.both= and(...)
                 venn.c.i=do::inner_Add_Symbol(stay.both,";")
                 if (length(stay.both)==0) venn.c.i=NA
                 venn.c=c(venn.c,venn.c.i)

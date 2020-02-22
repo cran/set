@@ -1,7 +1,7 @@
 Package: set
 Type: Package
 Title: Set Operation
-Version: 1.0
+Version: 1.1
 Author: Zhi Jin, Jing Zhang
 Maintainer: Zhi Jin <nalanchongxuan@163.com>
 Description: More easy to get intersection, union or complementary set and combinations.
@@ -13,6 +13,6 @@ Imports: do
 URL: https://github.com/yikeshu0611/set
 BugReports: https://github.com/yikeshu0611/set/issues
 NeedsCompilation: no
-Packaged: 2019-09-13 12:57:07 UTC; asus
+Packaged: 2020-02-22 17:13:18 UTC; asus
 Repository: CRAN
-Date/Publication: 2019-09-20 10:00:02 UTC
+Date/Publication: 2020-02-22 17:30:02 UTC
